@@ -22,7 +22,7 @@ struct ContentView: View {
                 Button(action: {
                     showSheet = true
                 }, label: {
-                    Text("show sheet")
+                    Text("show more")
                 })
             }
             .padding()
